@@ -46,6 +46,8 @@ Welcome to the To-Do List project! This web application helps you manage and kee
 ## Snapshots 📸
 
 ### Working
+![image](https://github.com/harishy0406/todo-app-main/blob/main/Working.gif)
+
 
 ### To-Do List
 ![image](https://github.com/user-attachments/assets/edad06af-5a8f-40e6-84df-95cf36242c36)
