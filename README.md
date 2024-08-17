@@ -20,7 +20,7 @@ Welcome to the To-Do List project! This web application helps you manage and kee
 
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/harishy0406/CODSOFT](https://github.com/harishy0406/To-Do-list.git
+    git clone [https://github.com/harishy0406/To-Do-list](https://github.com/harishy0406/To-Do-list.git)
     ```
 
 2. **Navigate to the project directory**:
