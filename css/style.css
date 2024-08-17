@@ -2,11 +2,35 @@ td{
     padding-top: 22px !important;
     width: 500px;
 }
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
 body {
-    background-image: url('https://images.inc.com/uploaded_files/image/1920x1080/getty_638884198_366705.jpg');
+    background-image: url('https://cdn.wallpaperhub.app/cloudcache/7/4/f/3/d/5/74f3d51cbec9db78da32e103de1b28538af1b76a.jpg');
     background-size: cover;
     background-position: center;
 }
+.content {
+    flex: 1;
+}
+footer{
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+    margin-top: auto;
+}
+footer span a{
+    color: #00D1D1;
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
+
+
 @media (max-width:688px) {
     input{
         width: 350px !important;
