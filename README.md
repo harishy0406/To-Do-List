@@ -46,16 +46,15 @@ Welcome to the To-Do List project! This web application helps you manage and kee
 ## Snapshots 📸
 
 ### Working
-![image](https://github.com/harishy0406/CODSOFT/blob/main/LEVEL%201/Task%202/Working.gif)
 
 ### To-Do List
-![image](https://github.com/harishy0406/CODSOFT/assets/142865295/9cce7bfa-daf7-4e5e-8e6b-5f267a2ff3eb)
+![image](https://github.com/user-attachments/assets/edad06af-5a8f-40e6-84df-95cf36242c36)
 
 ### Add Task
-![image](https://github.com/harishy0406/CODSOFT/assets/142865295/d4582c84-4bfa-4c30-a64b-0ae22eec4e71)
+![image](https://github.com/user-attachments/assets/4bc4ae0d-9718-40c8-b1e5-df5c17573b82)
 
 ### Task Completed
-![image](https://github.com/harishy0406/CODSOFT/assets/142865295/6f65f0c8-99e0-4f98-8e7d-c3c029a76d1f)
+![image](https://github.com/user-attachments/assets/f7e60db5-3479-41f4-b1f4-88e9f6eb8100)
 
 
 Thank you for visiting my To-Do List project! 😊 Feel free to explore and reach out if you have any questions or feedback. 📫
